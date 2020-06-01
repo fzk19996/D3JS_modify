@@ -1,0 +1,4 @@
+var external_imgs = {
+    
+    
+}

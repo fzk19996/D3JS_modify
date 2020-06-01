@@ -1,0 +1,591 @@
+name,type,value,date
+Exxon Mobil,USA,400628,Sep-05
+General Electric,USA,356929,Sep-05
+Microsoft,USA,275638,Sep-05
+Citigroup,USA,235342,Sep-05
+Royal Dutch Shell,Netherlands,228850,Sep-05
+Johnson & Johnson,USA,188238,Sep-05
+HSBC,United Kingdom,182741,Sep-05
+WalMart,USA,182409,Sep-05
+BP,United Kingdom,250083,Sep-05
+Pfizer,USA,184041,Sep-05
+General Electric,USA,359728.1,Dec-05
+ExxonMobil,USA,356129.4,Dec-05
+Microsoft,USA,278404.4,Dec-05
+Citigroup,USA,237138.45,Dec-05
+BP,United Kingdom,229171.3,Dec-05
+Royal Dutch Shell,Netherlands,220064.75,Dec-05
+WalMart,USA,189634.65,Dec-05
+Procter & Gamble,USA,189400.25,Dec-05
+Toyota,Japan,188409,Dec-05
+Bank of America,USA,182460,Dec-05
+Exxon Mobil,USA,371631,Mar-06
+General Electric,USA,362527,Mar-06
+Microsoft,USA,281171,Mar-06
+Citigroup,USA,238935,Mar-06
+BP,United Kingdom,233260,Mar-06
+Bank of America,USA,211706,Mar-06
+Royal Dutch Shell,Netherlands,211280,Mar-06
+WalMart,USA,196860,Mar-06
+Toyota,Japan,196731,Mar-06
+Gazprom,Russia,196339,Mar-06
+Exxon Mobil,USA,371187,Jun-06
+General Electric,USA,342731,Jun-06
+Gazprom,Russia,246341,Jun-06
+Citigroup,USA,239862,Jun-06
+Microsoft,USA,237688,Jun-06
+BP,United Kingdom,233151,Jun-06
+Royal Dutch Shell,Netherlands,224925,Jun-06
+Bank of America,USA,219504,Jun-06
+HSBC,United Kingdom,201854,Jun-06
+WalMart,USA,200762,Jun-06
+Exxon Mobil,USA,398906,Sep-06
+General Electric,USA,364414,Sep-06
+Microsoft,USA,272679,Sep-06
+Gazprom,Russia,254634.3,Sep-06
+Citigroup,USA,246727,Sep-06
+Bank of America,USA,242451,Sep-06
+Royal Dutch Shell,Netherlands,216368,Sep-06
+BP,United Kingdom,215623,Sep-06
+HSBC,United Kingdom,209774,Sep-06
+Pfizer,USA,206785,Sep-06
+Exxon Mobil,USA,446943,Dec-06
+General Electric,USA,383564,Dec-06
+Microsoft,USA,293537,Dec-06
+Citigroup,USA,273691,Dec-06
+Gazprom,Russia,271482,Dec-06
+Industrial & Commercial Bank of China,China,254592,Dec-06
+Toyota,Japan,241161,Dec-06
+Bank of America,USA,239758,Dec-06
+Royal Dutch Shell,Netherlands,225781,Dec-06
+BP,United Kingdom,218643,Dec-06
+Exxon Mobil,USA,429567,Mar-07
+General Electric,USA,363611,Mar-07
+Microsoft,USA,272912,Mar-07
+Citigroup,USA,252857,Mar-07
+AT&T,USA,246206,Mar-07
+Gazprom,Russia,245911,Mar-07
+Toyota,Japan,230832,Mar-07
+Bank of America,USA,228177,Mar-07
+ICBC,China,224788,Mar-07
+Royal Dutch Shell,Netherlands,214018,Mar-07
+Exxon Mobil,USA,472519,Jun-07
+General Electric,USA,393831,Jun-07
+Microsoft,USA,281934,Jun-07
+Royal Dutch Shell,Netherlands,266141,Jun-07
+AT&T,USA,255871,Jun-07
+Citigroup,USA,253703,Jun-07
+Gazprom,Russia,245757,Jun-07
+BP,United Kingdom,231491,Jun-07
+Toyota,Japan,228009,Jun-07
+Bank of America,USA,216963,Jun-07
+Exxon Mobil,USA,513362,Sep-07
+General Electric,USA,424191,Sep-07
+China Mobile,China,327937,Sep-07
+ICBC,China,279269,Sep-07
+Microsoft,USA,276202,Sep-07
+Royal Dutch Shell,Netherlands,264397,Sep-07
+Gazprom,Russia,260249,Sep-07
+AT&T,USA,258047,Sep-07
+Citigroup,USA,232162,Sep-07
+Bank of America,USA,223066,Sep-07
+Petro China,China,723952,Dec-07
+Exxon Mobil,USA,511887,Dec-07
+General Electric,USA,374637,Dec-07
+China Mobile,China,354120,Dec-07
+ICBC,China,338989,Dec-07
+Microsoft,USA,333054,Dec-07
+Gazprom,Russia,329591,Dec-07
+Royal Dutch Shell,Netherlands,269544,Dec-07
+AT&T,USA,252051,Dec-07
+Sinopec,China,249645,Dec-07
+Exxon Mobil,USA,452505,Mar-08
+Petro China,China,423996,Mar-08
+General Electric,USA,369569,Mar-08
+Gazprom,Russia,299764,Mar-08
+China Mobile,China,298093,Mar-08
+ICBC,China,277236,Mar-08
+Microsoft,USA,264132,Mar-08
+AT&T,USA,231168,Mar-08
+Royal Dutch Shell,Netherlands,220110,Mar-08
+Procter & Gamble,USA,215640,Mar-08
+Exxon Mobil,USA,465652,Jun-08
+Petro China,China,341140.3,Jun-08
+ICBC,China,257004.4,Jun-08
+Microsoft,USA,211546.2,Jun-08
+China Mobile,China,200832.4,Jun-08
+WalMart,USA,188752,Jun-08
+China Construction Bank,China,182186.7,Jun-08
+Petrobras,Brazil,165056.9,Jun-08
+Johnson & Johnson,USA,156515.9,Jun-08
+Royal Dutch Shell,Netherlands,156386.7,Jun-08
+Exxon Mobil,USA,403366,Sep-08
+Petro China,China,325097.5,Sep-08
+ICBC,China,237951.5,Sep-08
+Microsoft,USA,229630.7,Sep-08
+HSBC,United Kingdom,198561.1,Sep-08
+China Mobile,China,195680.4,Sep-08
+WalMart,USA,189331.6,Sep-08
+Petrobras,Brazil,189027.7,Sep-08
+China Construction Bank,China,186816.7,Sep-08
+Royal Dutch Shell,Netherlands,175986.1,Sep-08
+Exxon Mobil,USA,406067,Dec-08
+Petro China,China,259836,Dec-08
+WalMart,USA,219898,Dec-08
+China Mobile,China,201291,Dec-08
+Procter & Gamble,USA,184576,Dec-08
+ICBC,China,173930,Dec-08
+Microsoft,USA,172929,Dec-08
+AT&T,USA,167950,Dec-08
+Johnson & Johnson,USA,166002,Dec-08
+General Electric,USA,161278,Dec-08
+Exxon Mobil,USA,336527,Mar-09
+Petro China,China,287185,Mar-09
+WalMart,USA,204365,Mar-09
+ICBC,China,187885,Mar-09
+China Mobile,China,174673,Mar-09
+Microsoft,USA,163320,Mar-09
+AT&T,USA,148511,Mar-09
+Johnson & Johnson,USA,145481,Mar-09
+Royal Dutch Shell,Netherlands,138999,Mar-09
+Procter & Gamble,USA,138013,Mar-09
+Petro China,China,366662.9,Jun-09
+Exxon Mobil,USA,341140.3,Jun-09
+ICBC,China,257004.4,Jun-09
+Microsoft,USA,211546.2,Jun-09
+China Mobile,China,200832.4,Jun-09
+WalMart,USA,188752,Jun-09
+China Construction Bank,China,182186.7,Jun-09
+Petrobras,Brazil,165056.9,Jun-09
+Johnson & Johnson,USA,156515.9,Jun-09
+Royal Dutch Shell,Netherlands,156386.7,Jun-09
+Exxon Mobil,USA,329725,Sep-09
+Petro China,China,325097.5,Sep-09
+ICBC,China,237951.5,Sep-09
+Microsoft,USA,229630.7,Sep-09
+HSBC,United Kingdom,198561.1,Sep-09
+China Mobile,China,195680.4,Sep-09
+WalMart,USA,189331.6,Sep-09
+Petrobras,Brazil,189027.7,Sep-09
+China Construction Bank,China,186816.7,Sep-09
+Royal Dutch Shell,Netherlands,175986.1,Sep-09
+Petro China,China,353140.1,Dec-09
+Exxon Mobil,USA,323717.1,Dec-09
+Microsoft,USA,270635.4,Dec-09
+ICBC,China,268956.2,Dec-09
+WalMart,USA,203653.6,Dec-09
+China Construction Bank,China,201436.1,Dec-09
+BHP Billiton,Australia,201248,Dec-09
+HSBC,United Kingdom,199254.9,Dec-09
+Petrobras,Brazil,199107.9,Dec-09
+Apple,USA,189801.7,Dec-09
+Petro China,China,329259.7,Mar-10
+Exxon Mobil,USA,316230.8,Mar-10
+Microsoft,USA,256864.7,Mar-10
+ICBC,China,246419.8,Mar-10
+Apple,USA,213096.7,Mar-10
+BHP Billiton,Australia,209935.1,Mar-10
+WalMart,USA,209000.7,Mar-10
+Berkshire Hathaway,USA,200620.5,Mar-10
+General Electric,USA,194246.2,Mar-10
+China Mobile,China,192998.6,Mar-10
+Exxon Mobil,USA,291789.1,Jun-10
+Petro China,China,268504.8,Jun-10
+Apple,USA,228876.8,Jun-10
+ICBC,China,211258.7,Jun-10
+Microsoft,USA,201655.8,Jun-10
+China Mobile,China,201471.2,Jun-10
+Berkshire Hathaway,USA,197356.8,Jun-10
+China Construction Bank,China,189170.7,Jun-10
+WalMart,USA,178322.7,Jun-10
+Procter & Gamble,USA,172736.5,Jun-10
+Exxon Mobil,USA,314622.5,Sep-10
+Petro China,China,270889.9,Sep-10
+Apple,USA,259223.4,Sep-10
+Petrobras,Brazil,220616.5,Sep-10
+ICBC,China,213364.1,Sep-10
+Microsoft,USA,210676.4,Sep-10
+China Mobile,China,205339.6,Sep-10
+Berkshire Hathaway,USA,204792,Sep-10
+China Construction Bank,China,202998.4,Sep-10
+BHP Billiton,Australia,196866,Sep-10
+Exxon Mobil,USA,368711.5,Dec-10
+Petro China,China,303273.6,Dec-10
+Apple,USA,295886.3,Dec-10
+BHP Billiton,Australia,243540.3,Dec-10
+Microsoft,USA,238784.5,Dec-10
+ICBC,China,233369.1,Dec-10
+Petrobras,Brazil,229066.6,Dec-10
+China Construction Bank,China,222245.1,Dec-10
+Royal Dutch Shell,Netherlands,208593.7,Dec-10
+Nestle,Switzerland,203534.3,Dec-10
+BHP Billiton,Australia,247079.5,Mar-11
+Petrobras,Brazil,247417.6,Mar-11
+China Construction Bank,China,232608.6,Mar-11
+ICBC,China,251078.1,Mar-11
+Petro China,China,326199.2,Mar-11
+Royal Dutch Shell,Netherlands,226128.7,Mar-11
+Apple,USA,321072.1,Mar-11
+Chevron Corporation,USA,215780.6,Mar-11
+Exxon Mobil,USA,417166.7,Mar-11
+Microsoft,USA,213336.4,Mar-11
+BHP Billiton,Australia,233626.5,Jun-11
+Petrobras,Brazil,210111.4,Jun-11
+ICBC,China,246850.5,Jun-11
+Petro China,China,303649.9,Jun-11
+Royal Dutch Shell,Netherlands,225122.8,Jun-11
+Nestle,Switzerland,215017.5,Jun-11
+Apple,USA,310412.3,Jun-11
+Exxon Mobil,USA,400884.5,Jun-11
+IBM,USA,207781.4,Jun-11
+Microsoft,USA,219251.9,Jun-11
+China Mobile,China,198778.7,Sep-11
+ICBC,China,206021.4,Sep-11
+Petro China,China,276473.9,Sep-11
+Royal Dutch Shell,Netherlands,197061.1,Sep-11
+Nestle,Switzerland,191115.6,Sep-11
+Apple,USA,353518.1,Sep-11
+Chevron Corporation,USA,185456.1,Sep-11
+Exxon Mobil,USA,353135.2,Sep-11
+IBM,USA,208843.5,Sep-11
+Microsoft,USA,208534.9,Sep-11
+China Mobile,China,196148.4,Dec-11
+ICBC,China,228168.1,Dec-11
+Petro China,China,276844.9,Dec-11
+Royal Dutch Shell,Netherlands,236677,Dec-11
+Apple,USA,376410.6,Dec-11
+Chevron Corporation,USA,211893.9,Dec-11
+Exxon Mobil,USA,406272.1,Dec-11
+IBM,USA,216724.4,Dec-11
+Microsoft,USA,218380.1,Dec-11
+WalMart,USA,204659.8,Dec-11
+Apple,USA,559002.1,Mar-12
+Exxon Mobil,USA,408777.4,Mar-12
+Petro China,China,278968.4,Mar-12
+Microsoft,USA,270644.1,Mar-12
+IBM,USA,241754.6,Mar-12
+ICBC,China,236335.4,Mar-12
+Royal Dutch Shell,Netherlands,222425.1,Mar-12
+China Mobile,China,220978.9,Mar-12
+General Electric,USA,212317.7,Mar-12
+Chevron Corporation,USA,211950.6,Mar-12
+China Mobile,China,219481.3,Jun-12
+ICBC,China,211196,Jun-12
+Petro China,China,257685.8,Jun-12
+Royal Dutch Shell,Netherlands,217048.2,Jun-12
+Apple,USA,546076.1,Jun-12
+Exxon Mobil,USA,400139.1,Jun-12
+General Electric,USA,220806.3,Jun-12
+IBM,USA,225598.5,Jun-12
+Microsoft,USA,256982.4,Jun-12
+WalMart,USA,235900.3,Jun-12
+China Mobile,China,222817.8,Sep-12
+Petro China,China,253853.3,Sep-12
+Royal Dutch Shell,Netherlands,222669.6,Sep-12
+Apple,USA,625348.1,Sep-12
+Chevron Corporation,USA,228707.1,Sep-12
+Exxon Mobil,USA,422127.5,Sep-12
+General Electric,USA,239791.2,Sep-12
+IBM,USA,237068.4,Sep-12
+Microsoft,USA,249489.8,Sep-12
+WalMart,USA,248074.4,Sep-12
+Apple,USA,500610.7,Dec-12
+Exxon Mobil,USA,394610.9,Dec-12
+Petro China,China,264833.4,Dec-12
+BHP Billiton,Australia,247409,Dec-12
+ICBC,China,236457.9,Dec-12
+China Mobile,China,234040.2,Dec-12
+WalMart,USA,228245.4,Dec-12
+Samsung,South Korea,227581.8,Dec-12
+Microsoft,USA,224801,Dec-12
+Royal Dutch Shell,Netherlands,222669.6,Dec-12
+Petro China,China,254618.7,Mar-13
+Nestle,Switzerland,233792.1,Mar-13
+Apple,USA,415683.3,Mar-13
+Berkshire Hathaway,USA,256801.8,Mar-13
+Chevron Corporation,USA,230831.2,Mar-13
+Exxon Mobil,USA,403733.1,Mar-13
+General Electric,USA,239775.6,Mar-13
+IBM,USA,237724.7,Mar-13
+Microsoft,USA,239602.3,Mar-13
+WalMart,USA,246373.3,Mar-13
+ICBC,China,226879.8,Jun-13
+Apple,USA,372202.3,Jun-13
+Berkshire Hathaway,USA,276548.5,Jun-13
+Chevron Corporation,USA,229402.6,Jun-13
+Exxon Mobil,USA,401729.8,Jun-13
+General Electric,USA,239787.2,Jun-13
+Google,USA,238688.6,Jun-13
+Johnson & Johnson,USA,241170.9,Jun-13
+Microsoft,USA,288488.8,Jun-13
+WalMart,USA,244079.4,Jun-13
+Hoffmann-La Roche,Switzerland,232495.2,Sep-13
+Apple,USA,433099.6,Sep-13
+Berkshire Hathaway,USA,280001.5,Sep-13
+Chevron Corporation,USA,234740.8,Sep-13
+Exxon Mobil,USA,378716.2,Sep-13
+General Electric,USA,243290.4,Sep-13
+Google,USA,237479.4,Sep-13
+Johnson & Johnson,USA,244298.5,Sep-13
+Microsoft,USA,277220.9,Sep-13
+WalMart,USA,240773.3,Sep-13
+Hoffmann-La Roche,Switzerland,241368,Dec-13
+Apple,USA,504770.8,Dec-13
+Berkshire Hathaway,USA,292396,Dec-13
+Chevron Corporation,USA,240223.4,Dec-13
+Exxon Mobil,USA,442142.8,Dec-13
+General Electric,USA,283589.8,Dec-13
+Google,USA,310079.1,Dec-13
+Johnson & Johnson,USA,258415.4,Dec-13
+Microsoft,USA,312297.3,Dec-13
+WalMart,USA,254622.8,Dec-13
+Roche,Switzerland,258542.13,Mar-14
+Apple,USA,478766.1,Mar-14
+Berkshire Hathaway,USA,308090.6,Mar-14
+Exxon Mobil,USA,422098.3,Mar-14
+General Electric,USA,259547.3,Mar-14
+Google,USA,313003.9,Mar-14
+Johnson & Johnson,USA,277826.2,Mar-14
+Microsoft,USA,340216.8,Mar-14
+WalMart,USA,246805.7,Mar-14
+Wells Fargo,USA,261217.5,Mar-14
+Royal Dutch Shell,Netherlands,269563.4,Jun-14
+Roche,Switzerland,256322.78,Jun-14
+Apple,USA,560337.4,Jun-14
+Berkshire Hathaway,USA,312216.7,Jun-14
+Exxon Mobil,USA,432357.3,Jun-14
+General Electric,USA,263529.6,Jun-14
+Google,USA,358347.3,Jun-14
+Johnson & Johnson,USA,295980.1,Jun-14
+Microsoft,USA,344458.8,Jun-14
+Wells Fargo,USA,276837,Jun-14
+Novartis,Switzerland,255326.43,Sep-14
+Roche,Switzerland,254543.77,Sep-14
+Apple,USA,603277.4,Sep-14
+Berkshire Hathaway,USA,340055,Sep-14
+Exxon Mobil,USA,401094.1,Sep-14
+General Electric,USA,257068.4,Sep-14
+Google,USA,361998.4,Sep-14
+Johnson & Johnson,USA,300614.2,Sep-14
+Microsoft,USA,381959.7,Sep-14
+Wells Fargo,USA,270782.4,Sep-14
+Apple,USA,647361,Dec-14
+Exxon Mobil,USA,391481.9,Dec-14
+Microsoft,USA,382880.3,Dec-14
+Berkshire Hathaway,USA,370652.6,Dec-14
+Google,USA,329768.5,Dec-14
+Petro China,China,305536.07,Dec-14
+Johnson & Johnson,USA,292702.8,Dec-14
+Wells Fargo,USA,284385.6,Dec-14
+WalMart,USA,276807.4,Dec-14
+Industrial & Commercial Bank of China,China,271146.13,Dec-14
+ICBC,China,275389.1,Mar-15
+Petro China,China,329715.1,Mar-15
+Novartis,Switzerland,267897,Mar-15
+Apple,USA,724773.1,Mar-15
+Berkshire Hathaway,USA,356510.7,Mar-15
+Exxon Mobil,USA,356548.7,Mar-15
+Google,USA,345849.2,Mar-15
+Johnson & Johnson,USA,279723.9,Mar-15
+Microsoft,USA,333524.8,Mar-15
+Wells Fargo,USA,279919.7,Mar-15
+Industrial & Commercial Bank of China,China,298531.46,Jun-15
+Petro China,China,319391.56,Jun-15
+Apple,USA,722576.9,Jun-15
+Berkshire Hathaway,USA,336014.5,Jun-15
+Exxon Mobil,USA,347868.1,Jun-15
+General Electric,USA,267717.4,Jun-15
+Google,USA,333997.7,Jun-15
+Johnson & Johnson,USA,270260.8,Jun-15
+Microsoft,USA,357154.4,Jun-15
+Wells Fargo,USA,289591.3,Jun-15
+China Mobile,China,243186,Sep-15
+Nestle,Switzerland,233361,Sep-15
+Novartis,Switzerland,240373,Sep-15
+Apple,USA,621939,Sep-15
+Berkshire Hathaway,USA,318180,Sep-15
+Exxon Mobil,USA,304245,Sep-15
+General Electric,USA,248069,Sep-15
+Google,USA,407870,Sep-15
+Johnson & Johnson,USA,257637,Sep-15
+Microsoft,USA,347432,Sep-15
+Alphabet,USA,534090,Dec-15
+Amazon,USA,323009,Dec-15
+Apple,USA,598344,Dec-15
+Berkshire Hathaway,USA,323750,Dec-15
+Exxon Mobil,USA,325167,Dec-15
+General Electric,USA,313892,Dec-15
+Johnson & Johnson,USA,287153,Dec-15
+JP Morgan,USA,245126,Dec-15
+Microsoft,USA,449799,Dec-15
+Wells Fargo,USA,281770,Dec-15
+Apple,USA,607465,Mar-16
+Alphabet,USA,535660,Mar-16
+Microsoft,USA,439734,Mar-16
+Exxon Mobil,USA,350991,Mar-16
+Berkshire Hathaway,USA,349740,Mar-16
+Johnson & Johnson,USA,300604,Mar-16
+General Electric,USA,295546,Mar-16
+Amazon,USA,281888,Mar-16
+Facebook,USA,259192,Mar-16
+Wells Fargo,USA,246035,Mar-16
+Alphabet,USA,475320,Jun-16
+Amazon,USA,337641,Jun-16
+Apple,USA,517069,Jun-16
+AT&T,USA,261035,Jun-16
+Berkshire Hathaway,USA,345860,Jun-16
+Exxon Mobil,USA,383396,Jun-16
+Facebook,USA,263930,Jun-16
+General Electric,USA,280927,Jun-16
+Johnson & Johnson,USA,328234,Jun-16
+Microsoft,USA,397268,Jun-16
+Tencent,China,265603,Sep-16
+Alphabet,USA,535660,Sep-16
+Amazon,USA,393030,Sep-16
+Apple,USA,604475,Sep-16
+Berkshire Hathaway,USA,358300,Sep-16
+Exxon Mobil,USA,358519,Sep-16
+Facebook,USA,297548,Sep-16
+General Electric,USA,261876,Sep-16
+Johnson & Johnson,USA,320836,Sep-16
+Microsoft,USA,447290,Sep-16
+Alphabet,USA,531970,Dec-16
+Amazon,USA,356313.12,Dec-16
+Apple,USA,617588.49,Dec-16
+Berkshire Hathaway,USA,404390,Dec-16
+Exxon Mobil,USA,374280,Dec-16
+General Electric,USA,279545.92,Dec-16
+Johnson & Johnson,USA,313432.46,Dec-16
+JP Morgan,USA,308768.42,Dec-16
+Microsoft,USA,483160.28,Dec-16
+Wells Fargo,USA,276779.12,Dec-16
+Alphabet,USA,573570,Mar-17
+Amazon,USA,423031,Mar-17
+Apple,USA,753718,Mar-17
+Berkshire Hathaway,USA,410880,Mar-17
+Exxon Mobil,USA,339897,Mar-17
+Facebook,USA,334552,Mar-17
+Johnson & Johnson,USA,337947,Mar-17
+JP Morgan,USA,313761,Mar-17
+Microsoft,USA,508935,Mar-17
+Wells Fargo,USA,278516,Mar-17
+Apple,USA,749124,Jun-17
+Alphabet,USA,628610,Jun-17
+Microsoft,USA,528778,Jun-17
+Amazon,USA,466471,Jun-17
+Berkshire Hathaway,USA,418880,Jun-17
+Johnson & Johnson,USA,357310,Jun-17
+Facebook,USA,357176,Jun-17
+Alibaba,China,356390,Jun-17
+Tencent,China,344879,Jun-17
+Exxon Mobil,USA,341947,Jun-17
+Alibaba,China,436850,Sep-17
+Tencent,China,405007,Sep-17
+Alphabet,USA,664550,Sep-17
+Amazon,USA,459435,Sep-17
+Apple,USA,791726,Sep-17
+Berkshire Hathaway,USA,451840,Sep-17
+Exxon Mobil,USA,348248,Sep-17
+Facebook,USA,399946,Sep-17
+Johnson & Johnson,USA,347497,Sep-17
+Microsoft,USA,568965,Sep-17
+Alibaba,China,440712,Dec-17
+Tencent,China,493340,Dec-17
+Alphabet,USA,727040,Dec-17
+Amazon,USA,563540,Dec-17
+Apple,USA,868880,Dec-17
+Berkshire Hathaway,USA,489490,Dec-17
+Facebook,USA,512760,Dec-17
+Johnson & Johnson,USA,375360,Dec-17
+JP Morgan,USA,371050,Dec-17
+Microsoft,USA,659910,Dec-17
+Alibaba,China,470930,Mar-18
+Tencent,China,507990,Mar-18
+Alphabet,USA,715404,Mar-18
+Amazon,USA,700672,Mar-18
+Apple,USA,851317,Mar-18
+Berkshire Hathaway,USA,492019,Mar-18
+Facebook,USA,464189,Mar-18
+Johnson & Johnson,USA,343780,Mar-18
+JP Morgan,USA,377410,Mar-18
+Microsoft,USA,702760,Mar-18
+Alibaba,China,476040,Jun-18
+Tencent,China,478580,Jun-18
+Alphabet,USA,774840,Jun-18
+Amazon,USA,824790,Jun-18
+Apple,USA,909840,Jun-18
+Berkshire Hathaway,USA,463980,Jun-18
+Exxon Mobil,USA,350270,Jun-18
+Facebook,USA,562480,Jun-18
+JP Morgan,USA,354780,Jun-18
+Microsoft,USA,757640,Jun-18
+Alibaba,China,423600,Sep-18
+Tencent,China,388080,Sep-18
+Alphabet,USA,839740,Sep-18
+Amazon,USA,976650,Sep-18
+Apple,USA,1091000,Sep-18
+Berkshire Hathaway,USA,523520,Sep-18
+Facebook,USA,473850,Sep-18
+Johnson & Johnson,USA,370650,Sep-18
+JP Morgan,USA,379440,Sep-18
+Microsoft,USA,877400,Sep-18
+Alibaba,China,355130,Dec-18
+Tencent,China,375110,Dec-18
+Alphabet,USA,728360,Dec-18
+Amazon,USA,735900,Dec-18
+Apple,USA,748680,Dec-18
+Berkshire Hathaway,USA,499590,Dec-18
+Facebook,USA,375890,Dec-18
+Johnson & Johnson,USA,346110,Dec-18
+JP Morgan,USA,324660,Dec-18
+Microsoft,USA,780520,Dec-18
+Alibaba,China,472940,Mar-19
+Tencent,China,440980,Mar-19
+Alphabet,USA,818160,Mar-19
+Amazon,USA,874710,Mar-19
+Apple,USA,835670,Mar-19
+Berkshire Hathaway,USA,493750,Mar-19
+Facebook,USA,475730,Mar-19
+Johnson & Johnson,USA,372230,Mar-19
+Microsoft,USA,904860,Mar-19
+Visa,USA,353710,Mar-19
+Alibaba,China,439150,Jun-19
+Tencent,China,432080,Jun-19
+Alphabet,USA,751170,Jun-19
+Amazon,USA,928540,Jun-19
+Apple,USA,911240,Jun-19
+Berkshire Hathaway,USA,521100,Jun-19
+Facebook,USA,551490,Jun-19
+Johnson & Johnson,USA,370300,Jun-19
+Microsoft,USA,1028000,Jun-19
+Visa,USA,379271,Jun-19
+Alibaba,China,435400,Sep-19
+Tencent,China,398840,Sep-19
+Alphabet,USA,838020,Sep-19
+Amazon,USA,858680,Sep-19
+Apple,USA,1012000,Sep-19
+Berkshire Hathaway,USA,508530,Sep-19
+Facebook,USA,508050,Sep-19
+JP Morgan,USA,376310,Sep-19
+Microsoft,USA,1062000,Sep-19
+Visa,USA,385370,Sep-19
+Alibaba,China,569010,Dec-19
+Apple,USA,1305000,Dec-19
+Microsoft,USA,1203000,Dec-19
+Alphabet,USA,922130,Dec-19
+Amazon,USA,916150,Dec-19
+Facebook,USA,585320,Dec-19
+Berkshire Hathaway,USA,553530,Dec-19
+Tencent,China,461370,Dec-19
+JP Morgan,USA,437230,Dec-19
+Visa,USA,416790,Dec-19
+Alibaba,China,521740,Mar-20
+Tencent,China,471660,Mar-20
+Alphabet,USA,799180,Mar-20
+Amazon,USA,970590,Mar-20
+Apple,USA,1113000,Mar-20
+Berkshire Hathaway,USA,440830,Mar-20
+Facebook,USA,475460,Mar-20
+Johnson & Johnson,USA,345700,Mar-20
+Microsoft,USA,1200000,Mar-20
+Visa,USA,357020,Mar-20
